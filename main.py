@@ -6,4 +6,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     servicio = TareaServicio()
     app = TareaApp(root, servicio)
-    root.mainloop()
+    root.mainloop()  #fin
